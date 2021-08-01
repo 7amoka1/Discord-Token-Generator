@@ -8,7 +8,7 @@ src="https://camo.githubusercontent.com/4b028e8e841f57ee96b472fa88ea7ed66ddd3720
 </div>
 <b>DISCORD TOKEN SYNTAX:</b><br />
 <b>For Sure:</b><br />
-- User ID Encoded in Base64 (18 random digits) <br />
+- User ID Encoded in Base64 ( 832501108274233344 ) <br />
 - Dot<br>  
 <br />
 <b>To Verify:</b><br />  
